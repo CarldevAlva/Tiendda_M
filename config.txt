@@ -1,0 +1,5 @@
+user:root
+password:PTPT8080
+host:localhost
+database:db_tiendare
+port:3306
